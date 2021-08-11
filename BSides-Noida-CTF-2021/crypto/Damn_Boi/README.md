@@ -3,7 +3,7 @@
 `The DJ will play your Flag! <br>`
 
 `Connection` : `nc 104.199.9.13 1338` <br>
-:arrow_down: [chall](dist/src.py) 
+:arrow_down: [chall](dist/chall.zip) 
 
 ## Solution
 
