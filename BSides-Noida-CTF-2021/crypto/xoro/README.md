@@ -2,7 +2,7 @@
 
 "You need to accept the fact that you’re not the best and have all the will to strive to be better than anyone you face." – Roronoa Zoro <br>
 `Connection` : `nc 104.199.9.13 1338` <br>
-:arrow_down: [chall](dist/sry.py) 
+:arrow_down: [chall](dist/src.py) 
 
 ## Solution
 
